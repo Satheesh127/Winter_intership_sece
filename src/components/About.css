@@ -1,0 +1,32 @@
+.about {
+  padding: 2rem;
+  background-color: #f9f9f9;
+  color: #333;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  max-width: 800px;
+  margin: 2rem auto;
+}
+
+.about h2 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  color: #2c3e50;
+  text-align: center;
+}
+
+.about-content {
+  margin-top: 1rem;
+}
+
+.about-content p {
+  font-size: 1.2rem;
+  line-height: 1.8;
+  margin-bottom: 1rem;
+  color: #555;
+  text-align: justify;
+}
+
+.about-content p:last-child {
+  margin-bottom: 0;
+}
